@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-purchase-requisitions-react-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-purchase-requisitions",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-accounting-purchase-requisitions-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/accounting/nextjs/purchase-requisitions.md",
+  "presentationPlan": "projects/accounting/react/purchase-requisitions.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
